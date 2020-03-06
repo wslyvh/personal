@@ -3,12 +3,13 @@ module.exports = {
     title: `wslyvh`,
     author: {
       name: `Wesley van Heije`,
-      summary: `who is building products and teams. Based in Amsterdam.`,
+      summary: `Independent engineer & consultant. Based in Amsterdam.`,
     },
-    description: `A personal blog.`,
+    description: `A personal blog by Wesley van Heije.`,
     siteUrl: `https://wslyvh.netlify.com/`,
     social: {
       twitter: `wslyvh`,
+      github: `wslyvh`,
     },
   },
   plugins: [
