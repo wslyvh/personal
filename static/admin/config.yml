@@ -2,13 +2,13 @@ backend:
   name: github
   repo: wslyvh/personal
 
-media_folder: static/assets
+media_folder: content/assets
 public_folder: /assets
 
 collections:
   - name: blog
     label: Blog
-    folder: blog
+    folder: content
     create: true
     fields:
       - { name: path, label: Path }
