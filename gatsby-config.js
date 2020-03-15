@@ -3,16 +3,19 @@ module.exports = {
     title: `wslyvh`,
     author: {
       name: `Wesley van Heije`,
-      summary: `Independent engineer & consultant. Based in Amsterdam.`,
+      summary: `Independent engineering lead - building products & teams.`,
     },
     description: `A personal blog by Wesley van Heije.`,
-    siteUrl: `https://wslyvh.netlify.com/`,
+    siteUrl: `https://wslyvh.com/`,
     social: {
-      twitter: `wslyvh`,
-      github: `wslyvh`,
+      handle: "wslyvh",
+      twitter: "https://twitter.com/wslyvh",
+      github: "https://github.com/wslyvh/",
+      linkedin: "https://www.linkedin.com/in/wesleyvanheije/",
     },
   },
   plugins: [
+    `gatsby-plugin-postcss`,
     `gatsby-plugin-netlify-cms`,
     {
       resolve: `gatsby-source-filesystem`,
@@ -72,12 +75,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-react-helmet`,
-    {
-      resolve: `gatsby-plugin-typography`,
-      options: {
-        pathToConfigModule: `src/utils/typography`,
-      },
-    },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
