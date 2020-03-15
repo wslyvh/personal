@@ -1,5 +1,15 @@
 @import "tailwindcss/base";
 
+a {
+  @apply text-blue-600 underline;
+}
+a:hover {
+  @apply text-blue-800;
+}
+p {
+  margin: 1.12em 0;
+}
+
 @import "tailwindcss/components";
 
 @import "tailwindcss/utilities";

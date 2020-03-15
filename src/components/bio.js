@@ -1,22 +1,14 @@
-/**
- * Bio component that queries for data
- * with Gatsby's useStaticQuery component
- *
- * See: https://www.gatsbyjs.org/docs/use-static-query/
- */
-
 import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
-
-import { rhythm } from "../utils/typography"
+import { FaGithubSquare, FaLinkedin, FaTwitterSquare } from "react-icons/fa"
 
 const Bio = () => {
   const data = useStaticQuery(graphql`
     query BioQuery {
       avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
         childImageSharp {
-          fixed(width: 50, height: 50) {
+          fixed(width: 75, height: 75) {
             ...GatsbyImageSharpFixed
           }
         }
@@ -29,6 +21,8 @@ const Bio = () => {
           }
           social {
             twitter
+            github
+            linkedin
           }
         }
       }
@@ -37,33 +31,46 @@ const Bio = () => {
 
   const { author, social } = data.site.siteMetadata
   return (
-    <div
-      style={{
-        display: `flex`,
-        marginBottom: rhythm(2.5),
-      }}
-    >
-      <Image
-        fixed={data.avatar.childImageSharp.fixed}
-        alt={author.name}
-        style={{
-          marginRight: rhythm(1 / 2),
-          marginBottom: 0,
-          minWidth: 50,
-          borderRadius: `100%`,
-        }}
-        imgStyle={{
-          borderRadius: `50%`,
-        }}
-      />
-      <p>
-        Personal blog by{" "}
-        <a href={`https://twitter.com/${social.twitter}`}>
-          <strong>{author.name}</strong>
-        </a>
-        <br />
-        {author.summary}
-      </p>
+    <div className="block my-3">
+      <div className="inline-flex items-center mt-5">
+        <div className="text-center m-2">
+          <Image
+            className="rounded-full"
+            fixed={data.avatar.childImageSharp.fixed}
+            alt={author.name}
+          />
+        </div>
+
+        <div className="m-2">
+          <div className="text-m font-medium text-gray-900">
+            <h1>
+              <strong>{author.name}</strong>
+            </h1>
+          </div>
+          <div className="text-sm text-gray-600 mb-2">
+            <h2>{author.summary}</h2>
+          </div>
+          <div className="text-sm flex-row">
+            <ul className="flex">
+              <li className="mr-2">
+                <a href={social.twitter}>
+                  <FaTwitterSquare size="1.4em" />
+                </a>
+              </li>
+              <li className="mr-2">
+                <a href={social.linkedin}>
+                  <FaLinkedin size="1.4em" />
+                </a>
+              </li>
+              <li className="mr-2">
+                <a href={social.github}>
+                  <FaGithubSquare size="1.4em" />
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
     </div>
   )
 }
