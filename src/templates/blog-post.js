@@ -18,7 +18,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
       />
       <Bio />
 
-      <article className="mx-3">
+      <article className="mx-2">
         <header>
           <h3 className="text-gray-800 font-bold text-xl">
             {post.frontmatter.title}
