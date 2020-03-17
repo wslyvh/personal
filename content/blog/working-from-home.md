@@ -6,7 +6,7 @@ description: "How to take care of yourself when working from home"
 
 ## How to take care of yourself when working from home.
 
-Since a lot of people are working from home for the first time they can easily feel isolated. Especially when they can't leave the house (due to COVID-19) for extended periods of time. Remote work can have a serious impact on your life and (mental) health and can trap you in a negative feedback loop. I've been there, unfortunately. So sharing my thoughts and tips from the years I've been working remotely.
+Remote work can have a serious impact on your life and (mental) health. I've been there myself. Especially when you can’t leave the house for extended periods of time. A lot of people are going to experience this for the first time now. So sharing some tips and learnings from the years I've worked remotely.
 
 - **Stick to your regular routines.** Work reasonable hours and make sure to stick to start and end times. It's easy to be available all the time and work overtime. Start your day you would normally do. Grab your breakfast, take a shower and dress like you're going out in the morning.
 
