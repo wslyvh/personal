@@ -1,13 +1,30 @@
 @import "tailwindcss/base";
 
+h1 {
+  @apply text-2xl;
+}
+h2 {
+  @apply text-xl;
+}
+h3 {
+  @apply text-lg;
+}
 a {
   @apply text-blue-600 underline;
 }
 a:hover {
   @apply text-blue-800;
 }
-p {
+article p,
+article hr,
+article h1,
+article h2,
+article h3 {
   margin: 1.12em 0;
+}
+article ol,
+article ul {
+  @apply list-disc list-inside;
 }
 
 @import "tailwindcss/components";
