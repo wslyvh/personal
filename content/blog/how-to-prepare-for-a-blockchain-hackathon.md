@@ -1,10 +1,9 @@
 ---
-title: The gitchhiker’s guide to Ethereum 
-date: "2020-02-21"
-description: "The gitchhiker’s guide to Ethereum"
+title: How to prepare for a blockchain hackathon 
+date: 2020-02-21
+description: How to prepare for a blockchain hackathon
 ---
 
-How to prepare for a Blockchain Hackathon: the ultimate guide
 The preparation of [Odyssey](https://www.odyssey.org/) is already in full swing. Odyssey is Europe's largest blockchain hackathon that connects governments, corporates, and non-profits with innovative entrepreneurs from around the world to let them jointly tackle 21st-century challenges. Next to that, there are several [ETHGlobal](https://ethglobal.co/) hackathons scheduled again for this year. I've participated in several of them as a mentor, jury, and hacker and won a grant (from [Brightlands](https://www.brightlands.com/brightlands-smart-services-campus) at Odyssey) and 2 bounties (from [the Graph](https://thegraph.com/) and [dHack](https://www.dhack.io/) at [ETHBerlin](https://ethberlinzwei.com/)).
 
 While both hackathons are quite different, they're the most fun and inspiring events that I've been to over the past years and always looking forward to them. Despite their differences, I think you can prepare for them similarly and hope this guide provides you with essential tools, fundamentals, best practices, and support resources to help you prepare to build a winning solution.
