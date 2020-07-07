@@ -44,6 +44,8 @@ Above leads us further into Ethereum.
 - [How does Ethereum work, anyway](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway), Preethi Kasireddy
 - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) (BOOK), Andreas M. Antonopoulos, Gavin Wood
 
+![Mastering Ethereum](../assets/images/mastering-ethereum.png)
+
 # 4. Ethereum Development 
 
 Once you've went through all (or at least most) of the above, you should have a solid grasp of all the concepts. So now we can finally move on to the fun part: actually building stuff! 
