@@ -20,15 +20,15 @@ Successful companies were born from these hackathons, such as GroupMe (acquired 
 
 # Tips
 
-1. Set your own goals for the hackathon. What are you trying to build? Is that feasible in the limited amount of time that you have? Why are you participating? Is it to learn something new, connect with the community or are you planning to win?
+1. **Set your own goals for the hackathon.** What are you trying to build? Is that feasible in the limited amount of time that you have? Why are you participating? Is it to learn something new, connect with the community or are you planning to win?
 
-1. Connect with the community. Walk around during the hackathon, get out of your comfort zone, meet with others, see what they're working on. There is a huge amount of knowledge walking around at these hackathons. Make sure to use that. Don't be afraid to ask questions. Or maybe there is something that you can help them with.
+1. **Connect with the community.** Walk around during the hackathon, get out of your comfort zone, meet with others, see what they're working on. There is a huge amount of knowledge walking around at these hackathons. Make sure to use that. Don't be afraid to ask questions. Or maybe there is something that you can help them with.
 
-1. Blockchain never sleeps. If you're stuck with something and you're haven't found help on the hackathon itself yet, try to reach out to the broader community. Most blockchain development is open-source and globally distributed. There's always someone out there who can help. Check Gitter, Discords, Github or any other communication channels that can help you move forward.
+1. **Blockchain never sleeps.** If you're stuck with something and you're haven't found help on the hackathon itself yet, try to reach out to the broader community. Most blockchain development is open-source and globally distributed. There's always someone out there who can help. Check Gitter, Discords, Github or any other communication channels that can help you move forward.
 
-1. Be prepared… See below!
+1. **Be prepared…** See below!
 
-1. Have fun!
+1. **Have fun!**
 
 ![Winning a Hackathon](../assets/images/hackathon-win.jpeg)
 
