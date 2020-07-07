@@ -77,34 +77,40 @@ Above should cover everything you need to write your own smart contracts and bui
 
 # 5. Advanced Topics 
 
-The goal of this guide is mainly to help new developers to enter the space. I'll keep advanced topics, such as design & architecture, performance, security, privacy, etc. for a future post. 
+The goal of this guide is mainly to help new developers to enter the space and I won't go into much depth on advanced topics, such as design & architecture, scalability, privacy, etc.
 
 But a few pointers, for those who feel up to it. 
 
 ## Architecture 
 
-The following diagram is a stack representation of the enterprise Ethereum architecture. While this is aimed towards enterprise, it gives a good overview of the relationship between components and can be part of any implementation. 
+The following diagram is a stack representation of the enterprise Ethereum architecture. While this is aimed towards enterprises, it gives a good overview of the relationship between components and can be part of any implementation. 
 
 ![Enterprise Ethereum architecture stack](../assets/images/eth-architecture.png)
 
 For more details check out the [specification](https://entethalliance.github.io/client-spec/spec.html#sec-smart-contract-tools-sublayer) or [Ethereum Enterprise Alliance](https://entethalliance.org/resources/).
 
-As you can see in the diagram, we've covered most from the Application layer, to the tooling, core blockchain and networking layer. What's missing really is the Enterprise 3 P's (performance, permissioning and privacy). Again, this does not only apply to apply to enterprise, but is applicable to any ethereum application. 
+As you can see in the diagram, we've covered most from the application layer, to the tooling, core blockchain and networking layer. What's missing really are the Enterprise 3 P's.
 
-## Security & Best practices 
+- Performance
+- Permissioning
+- Privacy
+
+Again, this does not only apply to enterprise, but is applicable to any ethereum application. I'll leave these for a future blog post.
+
+## Security & best practices 
 - [Ethereum & Smart contract security best practices](https://consensys.github.io/smart-contract-best-practices/), ConsenSys Diligence
 - [Best Practices for Smart Contract Development](https://yos.io/2019/11/10/smart-contract-development-best-practices/)
 
 # 6. Next steps 
 
-For those of you who can't get enough and have covered all of above. Here's a few more links, resources and video-/blog series that are often posting new updates.
+For those of you who can't get enough and have covered all of above. Here's a few more links that are often posting new updates and video-/blog series.
 
 - [EthereumDev.io](https://ethereumdev.io/)
 - [Dapp University](https://www.dappuniversity.com/)
 - [Eat the blocks](https://www.youtube.com/c/eattheblocks)
 - [Ethereum Developer Bootcamp](https://www.chainshot.com/)
 
-But in the end, the best way to learn is by doing. So go out, try to apply these skills in practice, engage with the community and start contributing...
+In the end, the best way to learn is by doing. So I'd recommend to go out, try to apply these skills in practice, engage with the community and start contributing...
 
 - Contribute to open-source projects. Check out [BUIDL explorer](https://buidl-explorer.herokuapp.com/) or find bounties to work on at [Gitcoin](https://gitcoin.co/explorer)
 - Join hackathons, such as [ETHGlobal](https://www.ethglobal.co/) or [Gitcoin](http://gitcoin.co/hackathon), or find a local [meetup group](https://www.meetup.com/topics/ethereum/)
