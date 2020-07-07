@@ -113,10 +113,9 @@ For those of you who can't get enough and have covered all of above. Here's a fe
 In the end, the best way to learn is by doing. So I'd recommend to go out, try to apply these skills in practice, engage with the community and start contributing...
 
 - Contribute to open-source projects. Check out [BUIDL explorer](https://buidl-explorer.herokuapp.com/) or find bounties to work on at [Gitcoin](https://gitcoin.co/explorer)
-- Join hackathons, such as [ETHGlobal](https://www.ethglobal.co/) or [Gitcoin](http://gitcoin.co/hackathon), or find a local [meetup group](https://www.meetup.com/topics/ethereum/)
-- Make sure to [prepare yourself for a hackathon](https://medium.com/@wslyvh/preparing-for-a-blockchain-hackathon-38f27d2468b5)
-- Connect and engage with [the community](https://ethereum.org/en/community/)
-- Jobs are often posted on [AngelList](https://angel.co/), [LinkedIn](https://linkedin.com/jobs), [Crypto Jobs List](https://cryptojobslist.com/) and [Blocktribe](https://blocktribe.com/).
+- Join hackathons, such as [ETHGlobal](https://www.ethglobal.co/) or [Gitcoin](http://gitcoin.co/hackathon). Make sure to [prepare yourself for a hackathon](https://medium.com/@wslyvh/preparing-for-a-blockchain-hackathon-38f27d2468b5)
+- Connect and engage with the [global Ethereum community](https://ethereum.org/en/community/) or find a [local meetup group](https://www.meetup.com/topics/ethereum/)
+- A lot of companies are still hiring (remotely).  Jobs are posted on [AngelList](https://angel.co/jobs), [LinkedIn](https://linkedin.com/jobs), [Crypto Jobs List](https://cryptojobslist.com/) and [Blocktribe](https://blocktribe.com/).
 
 ---
 
