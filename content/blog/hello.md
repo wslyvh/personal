@@ -1,6 +1,6 @@
 ---
 title: Launching a personal blog
-date: 2020-03-05T23:00:00.000Z
+date: 2020-02-05
 description: Launching a personal blog. How exciting!
 ---
 Launching a personal blog. How exciting!
