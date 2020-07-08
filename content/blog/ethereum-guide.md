@@ -8,16 +8,15 @@ Blockchain has emerged from the once shadowy world of cryptocurrency to become [
 
 Over the past few years I've been helping and on-boarding new team members and developers into the blockchain space. This helped me to collect blogs, links, materials and resources and see which worked well for everyone's learning journey. It's time to share that with a broader audience. This guide provides a starting point for developers who're keen to learn more about blockchain and development on top of Ethereum. It will be opinionated and not contain a full list of everything that is available. But rather, a concise list of highly recommended options, from my own experiences. 
 
-1. Blockchain foundations & history
-1. Fundamentals & crypto primitives
-1. Ethereum 101
+1. Blockchain foundations 
+1. Ethereum 101 
 1. Ethereum Development, Smart contracts & DApps 
 1. Advanced Topics, privacy, performance & permissioning 
 1. Next steps 
 
 ![Ethereum Development](../assets/images/ethereum-guide.png)
 
-# 1. Foundations 
+# 1. Blockchain foundations 
 
 New to blockchain? Let's start with a bit of the history and its foundations that motivated the creation and development of blockchain.
 
@@ -27,7 +26,7 @@ New to blockchain? Let's start with a bit of the history and its foundations tha
 - [The shift from open platforms to digital commons](http://www.bollier.org/blog/shift-open-platforms-digital-commons), David Bollier
 - [Deconfusing decentralization](https://youtu.be/7S1IqaSLrq8) (VIDEO), Greg Slepak
 
-# 2. Fundamentals 
+# 2. Ethereum 101 
 
 Now that we have an understanding where we're coming from, let's dive in a little bit deeper into the fundamental componenents & building blocks.
 
@@ -35,18 +34,13 @@ Now that we have an understanding where we're coming from, let's dive in a littl
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/), Vitalik Buterin - a next generation smart contract & decentralized application platform
 - [Ethereum Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf), Gavin Wood - a more technical version of the Ethereum whitepaper
 - [Smart Contracts](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart.contracts.html), Nick Szabo
-
-# 3. Ethereum 101 
-
-Above leads us further into Ethereum.
-
-- [Decentralize everything](https://youtu.be/WSN5BaCzsbo) (VIDEO), Vitalik Buterin
+- [Ethereum in 25 mins](https://youtu.be/mCzyDLanA7s) (VIDEO), Vitalik Buterin
 - [How does Ethereum work, anyway](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway), Preethi Kasireddy
 - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) (BOOK), Andreas M. Antonopoulos, Gavin Wood
 
 ![Mastering Ethereum](../assets/images/mastering-ethereum.png)
 
-# 4. Ethereum Development 
+# 3. Ethereum Development 
 
 Once you've went through all (or at least most) of the above, you should have a solid grasp of all the concepts. So now we can finally move on to the fun part: actually building stuff! 
 
@@ -72,13 +66,13 @@ The Ethereum portal covers sections per programming language, to help you filter
 
 ## Boilerplates
 - [create-eth-app](https://github.com/PaulRBerg/create-eth-app)
-- [scaffold-eth](https://github.com/austintgriffith/scaffold-eth)
+- [Scaffold ETH](http://scaffoldeth.io/)
 - [OpenZeppelin starter kits](https://openzeppelin.com/starter-kits/)
 - [Truffle boxes](https://www.trufflesuite.com/boxes)
 
 Above should cover everything you need to write your own smart contracts and build decentralized application on top of Ethereum. 
 
-# 5. Advanced Topics 
+# 4. Advanced Ethereum Topics 
 
 The goal of this guide is mainly to help new developers to enter the space and I won't go into much depth on advanced topics, such as design & architecture, scalability, privacy, etc.
 
@@ -104,7 +98,7 @@ Again, this does not only apply to enterprise, but is applicable to any ethereum
 - [Ethereum & Smart contract security best practices](https://consensys.github.io/smart-contract-best-practices/), ConsenSys Diligence
 - [Best Practices for Smart Contract Development](https://yos.io/2019/11/10/smart-contract-development-best-practices/)
 
-# 6. Next steps 
+# 5. Next steps 
 
 For those of you who can't get enough and have covered all of above. Here's a few more links that are often posting new updates and video-/blog series.
 
