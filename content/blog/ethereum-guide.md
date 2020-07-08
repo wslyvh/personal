@@ -8,7 +8,7 @@ Blockchain has emerged from the once shadowy world of cryptocurrency to become [
 
 Over the past few years I've been helping and on-boarding new team members and developers into the blockchain space. This helped me to collect blogs, links, materials and resources and see which worked well for everyone's learning journey. It's time to share that with a broader audience. This guide provides a starting point for developers who're keen to learn more about blockchain and development on top of Ethereum. It will be opinionated and not contain a full list of everything that is available. But rather, a concise list of highly recommended options, from my own experiences. 
 
-1. Foundations & history
+1. Blockchain foundations & history
 1. Fundamentals & crypto primitives
 1. Ethereum 101
 1. Ethereum Development, Smart contracts & DApps 
@@ -68,6 +68,7 @@ The Ethereum portal covers sections per programming language, to help you filter
 - [Learning Solidity](https://docs.openzeppelin.com/learn/)
 - [Truffle Pet shop](https://www.trufflesuite.com/tutorials/pet-shop)
 - [Ultimate Introduction to Ethereum Dapp development](https://www.youtube.com/watch?v=rmtsh7Q7sbE&list=PLV1JDFUtrXpFh85G-Ddyy2kLSafaB9biQ), Decypher Media
+- [ETH.build](https://eth.build/), [Austin Griffith](https://twitter.com/austingriffith)
 
 ## Boilerplates
 - [create-eth-app](https://github.com/PaulRBerg/create-eth-app)
