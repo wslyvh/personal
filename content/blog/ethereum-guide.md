@@ -36,9 +36,9 @@ Now that we have an understanding where we're coming from, let's dive in a littl
 - [Smart Contracts](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart.contracts.html), Nick Szabo
 - [Ethereum in 25 mins](https://youtu.be/mCzyDLanA7s) (VIDEO), Vitalik Buterin
 - [How does Ethereum work, anyway](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway), Preethi Kasireddy
-- [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) (BOOK), Andreas M. Antonopoulos, Gavin Wood
+- [Mastering Ethereum](https://amzn.to/2VZvfz8) (BOOK), Andreas M. Antonopoulos, Gavin Wood. Or view on [Github](https://github.com/ethereumbook/ethereumbook)
 
-![Mastering Ethereum](../assets/images/mastering-ethereum.png)
+[![Mastering Ethereum](../assets/images/mastering-ethereum.png)](https://amzn.to/2VZvfz8)
 
 # 3. Ethereum Development 
 
