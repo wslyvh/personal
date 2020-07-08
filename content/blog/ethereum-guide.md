@@ -53,7 +53,8 @@ The Ethereum portal covers sections per programming language, to help you filter
 ## Courses
 - [Blockchain Essentials: An introduction for non-developers](https://academy.b9lab.com/courses/course-v1:Blab+BEC-FREE+2018-08/about), B9lab Academy - a free introductory course that offers a high-level overview of blockchain technology for a non-technical audience. **NOTE** that if you're developer you can probably skip this, as this will all be covered in the developer course. 
 - [Introduction to Ethereum for Developers](https://academy.b9lab.com/courses/B9lab/X16-0/2016/about), B9lab Academy - free Ethereum course gives you an overview of blockchain technology and covers the very basics of Ethereum. **NOTE** that the course is slightly outdated in terms of tools and ecosystem, but the basics and principles remain a good starting point. 
-- [Crypto startup school](https://a16z.com/crypto-startup-school/) (COURSE), a16z - incredible insight from people like Brian Armstrong from Coinbase, Robert Leshner from Compound, and Sam Williams from Arweave among others.
+- [Crypto startup school](https://a16z.com/crypto-startup-school/), a16z - incredible insight from people like Brian Armstrong from Coinbase, Robert Leshner from Compound, and Sam Williams from Arweave among others.
+- [Blockchain and Money](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/), MIT - This course is for students wishing to explore blockchain technology’s potential use - by entrepreneurs & incumbents - to change the world of money and finance. Watch on [Youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn)
 
 ## Tutorials 
 - [Ethereum Studio](https://studio.ethereum.org/) (a web-based IDE, incl. templates)
