@@ -58,18 +58,18 @@ The Ethereum portal covers sections per programming language, to help you filter
 
 ## Tutorials 
 - [Ethereum Studio](https://studio.ethereum.org/) (a web-based IDE, incl. templates)
-- [Cryptozombies](https://cryptozombies.io/) (highly recommended)
-- [Ethernaut](https://ethernaut.openzeppelin.com/) 
-- [Learning Solidity](https://docs.openzeppelin.com/learn/)
-- [Truffle Pet shop](https://www.trufflesuite.com/tutorials/pet-shop)
+- [Cryptozombies](https://cryptozombies.io/) (highly recommended), Loom
+- [Ethernaut](https://ethernaut.openzeppelin.com/), OpenZeppelin
+- [Learning Solidity](https://docs.openzeppelin.com/learn/), OpenZeppelin
+- [Truffle Pet shop](https://www.trufflesuite.com/tutorials/pet-shop), Truffle Suite
 - [Ultimate Introduction to Ethereum Dapp development](https://www.youtube.com/watch?v=rmtsh7Q7sbE&list=PLV1JDFUtrXpFh85G-Ddyy2kLSafaB9biQ), Decypher Media
 - [ETH.build](https://eth.build/), [Austin Griffith](https://twitter.com/austingriffith)
 
 ## Boilerplates
-- [create-eth-app](https://github.com/PaulRBerg/create-eth-app)
-- [Scaffold ETH](http://scaffoldeth.io/)
-- [OpenZeppelin starter kits](https://openzeppelin.com/starter-kits/)
-- [Truffle boxes](https://www.trufflesuite.com/boxes)
+- [create-eth-app](https://github.com/PaulRBerg/create-eth-app), [Paul Razvan Berg](https://twitter.com/PaulRBerg)
+- [Scaffold ETH](http://scaffoldeth.io/), [Austin Griffith](https://twitter.com/austingriffith)
+- [OpenZeppelin starter kits](https://openzeppelin.com/starter-kits/), OpenZeppelin
+- [Truffle boxes](https://www.trufflesuite.com/boxes), Truffle Suite
 
 Above should cover everything you need to write your own smart contracts and build decentralized applications on top of Ethereum. 
 
