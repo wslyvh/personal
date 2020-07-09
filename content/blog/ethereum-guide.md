@@ -1,7 +1,7 @@
 ---
 title: The hitchhiker’s guide to Ethereum 
-date: "2020-07-07"
-description: "The hitchhiker’s guide to Ethereum"
+date: 2020-07-07
+description: Blockchain has emerged to become the most in-demand skill. This guide provides a starting point for developers to build on top of Ethereum.
 ---
 
 Blockchain has emerged from the once shadowy world of cryptocurrency to become [the most in-demand skill in 2020](https://business.linkedin.com/talent-solutions/blog/trends-and-research/2020/most-in-demand-hard-and-soft-skills), according to LinkedIn. The promise of blockchain is huge. And large companies are continuing to hire and expand their blockchain teams, incl. Facebook, Amazon, Microsft, EY, Deloitte, IBM, and Oracle, to name a few. So, it should be well worth the effort to become familiar with how blockchain works, what its perceived benefits are, and as a developer starting building on top of them. 
