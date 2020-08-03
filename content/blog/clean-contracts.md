@@ -14,6 +14,8 @@ In a series of blog posts, I’m planning to go through several patterns, practi
 
 # Clean Code 
 
+![WTFs/minute](../assets/images/wtfs-minute.jpeg)
+
 In this first article, I’ll cover more general engineering practices based on the concepts of Clean Code. Clean code is a well-known concept within the software development industry. [Robert C Martin, also known as 'Uncle Bob' wrote the famous handbook](https://amzn.to/30RsoKk). Its principles go back to even the earlier concepts of the Agile manifesto and software craftsmanship. It’s a knowledge base for the way we think, write, and read code. Build on decades of wisdom in software development. 
 
 > *“Truth can only be found in one place: the code“* - Robert C. Martin 
@@ -170,6 +172,8 @@ If a transaction doesn’t have enough gas to execute, the out of gas error is n
 
 ## Testing 
 
+![Test my code](../assets/images/wtfs-minute.jpeg)
+
 The same rules for clean code, apply to testing. Clean tests are tests that are easy to read. Easy to understand. And easy to maintain. Tests help you keep your code flexible, maintainable, and reusable. They validate the behaviors, reduce the risks of making unintended changes, and save time debugging and writing your code. 
 
 ### F.I.R.S.T
@@ -225,7 +229,7 @@ Analysis tools for smart contracts help identify smart contract vulnerabilities.
 - [Oyente](https://github.com/melonproject/oyente) - An Analysis Tool for Smart Contracts
 - [Slither](https://github.com/crytic/slither) - Static Analyzer for Solidity
 
-### Gas Reporter
+### Gas Optimization
 
 Optimizing gas costs can be a worthwhile endeavor, to reduce costs both for your own deployments, as well as for your end-users. Network usage is progressively increasing, with current gas costs at its peak. As the ecosystem continues to grow, so too will the value of gas optimization. We’ll cover these in more detail in another blog post. 
 
@@ -246,6 +250,8 @@ It is based on a set of key principles.
 
 > *"Continuous Integration doesn’t get rid of bugs, but it does make them dramatically easier to find and remove."* - Martin Fowler
 
+
+![Ship all the code](../assets/images/ship-all-the-code.jpeg)
 
 ## Further Reading 
 
