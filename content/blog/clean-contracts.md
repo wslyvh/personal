@@ -35,9 +35,12 @@ Use pronounceable names.
 
 Use searchable names.
 
-**Reference**: [Solidity Style guide](https://solidity.readthedocs.io/en/latest/style-guide.html)
-
 > *"There are only two hard things in Computer Science: cache invalidation and naming things."* - Phil Karlton
+
+**References**
+- [Code example](https://github.com/wslyvh/clean-contracts/tree/master/1-naming)
+- [Solidity Style guide](https://solidity.readthedocs.io/en/latest/style-guide.html)
+
 
 ## Structure & Ordering 
 
@@ -84,7 +87,9 @@ The modifier order for a function should be:
 1. Override
 1. Custom modifiers
 
-**Reference**: [Solidity Style guide](https://solidity.readthedocs.io/en/latest/style-guide.html)
+**References**
+- [Code example](https://github.com/wslyvh/clean-contracts/tree/master/2-structure)
+- [Solidity Style guide](https://solidity.readthedocs.io/en/latest/style-guide.html)
 
 
 ## Documentation & Natspec 
@@ -95,14 +100,14 @@ This documentation is segmented into developer-focused messages and end-user-fac
 
 It is recommended that Solidity contracts are fully annotated using NatSpec for all public interfaces (everything in the ABI).
 
-**Reference** [NatSpec](https://solidity.readthedocs.io/en/latest/natspec-format.html)
+**References**
+- [Code example](https://github.com/wslyvh/clean-contracts/tree/master/3-documentation)
+- [NatSpec](https://solidity.readthedocs.io/en/latest/natspec-format.html)
 
 
 ## Formatting 
 
 Reading code should be like reading this blog, an article, or a book. It should be well formatted. The Solidity style guide provides guidance for writing Solidity code. The goal for it is not to be the right or only way, but to be consistent. 
-
-**Reference**: [Solidity Style guide](https://solidity.readthedocs.io/en/latest/style-guide.html)
 
 Consistency can be enforced by using a linter. This not only provides formatting and style guide validation but also includes security validation.
 
@@ -112,6 +117,10 @@ Linters for Solidity
 - [VS Code Solidity](https://github.com/juanfranblanco/vscode-solidity/)
 
 Use a regular linter for your dapp development (e.g. eslint, depending on your language).
+
+**References**
+- [Code example](https://github.com/wslyvh/clean-contracts/tree/master/4-formatting)
+- [Solidity Style guide](https://solidity.readthedocs.io/en/latest/style-guide.html)
 
 
 ## Contracts & Data structures 
