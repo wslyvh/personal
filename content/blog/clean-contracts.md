@@ -22,8 +22,6 @@ In this first article, I’ll cover more general engineering practices based on 
 
 Clean code is code that is easy to read. Easy to understand. And easy to maintain. Clean code is an attempt to make sense of the complexity of systems that we’re dealing with. It’s a defense mechanism that can provide guidance when you’re not sure how a change would affect the codebase. While there’s valid criticism on the handbook and the examples are considered outdated, the principles are still very relevant. Especially for object-oriented languages, such as Solidity. They apply to designing and writing secure, open, and immutable code, such as smart contracts.  
 
-Check out my [Clean Contracts](https://github.com/wslyvh/clean-contracts) repo for supporting code example from each chapter.
-
 # Practices
 
 ## Naming
