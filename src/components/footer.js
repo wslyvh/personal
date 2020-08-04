@@ -1,5 +1,6 @@
 import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
+import Newsletter from "../components/newsletter"
 import { FaGithubSquare, FaLinkedin, FaTwitterSquare } from "react-icons/fa"
 
 const Footer = () => {
@@ -22,6 +23,9 @@ const Footer = () => {
   return (
     <footer className="mt-5">
       <hr className="my-5" />
+      <Newsletter />
+      <hr className="my-5" />
+
       <div className="text-sm flex-row m-2">
         <div className="my-3">
           <strong>{title}</strong> © {new Date().getFullYear()}, built with{" "}
