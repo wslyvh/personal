@@ -1,6 +1,6 @@
 ---
 title: Recommended blockchain & crypto courses
-date: 2020-07-30
+date: 2021-06-21
 description: There are a ton of courses where you can learn about blockchain and web3 development. Right from your home and at your own pace. Most of them are free. Or have free introductory lessons.
 ---
 
