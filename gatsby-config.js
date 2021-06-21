@@ -3,7 +3,7 @@ module.exports = {
     title: `wslyvh`,
     author: {
       name: `Wesley van Heije`,
-      summary: `Independent engineering lead - building products & teams.`,
+      summary: `Creating and supporting open-source software and the Web3 ecosystem`,
     },
     description: `A personal blog by Wesley van Heije.`,
     siteUrl: `https://wslyvh.com/`,
