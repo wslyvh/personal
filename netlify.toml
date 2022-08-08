@@ -6,7 +6,7 @@
 
 [[redirects]]
   from = '/clean-contracts'
-  to = 'https://www.useweb3.xyz/courses'
+  to = 'https://www.useweb3.xyz/guides/clean-contracts'
   force = true
   status = 301
 
