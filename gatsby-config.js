@@ -2,10 +2,10 @@ module.exports = {
   siteMetadata: {
     title: `wslyvh`,
     author: {
-      name: `Wesley van Heije`,
+      name: `wslyvh`,
       summary: `Creating and supporting open-source software and the Web3 ecosystem`,
     },
-    description: `A personal blog by Wesley van Heije.`,
+    description: `A personal blog by wslyvh.`,
     siteUrl: `https://wslyvh.com/`,
     social: {
       handle: "wslyvh",

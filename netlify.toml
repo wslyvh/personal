@@ -1,0 +1,49 @@
+[[redirects]]
+  from = '/blockchain-crypto-courses'
+  to = 'https://www.useweb3.xyz/courses'
+  force = true
+  status = 301
+
+[[redirects]]
+  from = '/clean-contracts'
+  to = 'https://www.useweb3.xyz/courses'
+  force = true
+  status = 301
+
+[[redirects]]
+  from = '/ethereum-guide'
+  to = 'https://www.useweb3.xyz/guides/beginners-guide-to-web3'
+  force = true
+  status = 301
+
+[[redirects]]
+  from = '/how-to-prepare-for-a-blockchain-hackathon'
+  to = 'https://www.useweb3.xyz/'
+  force = true
+  status = 301
+
+
+
+[[redirects]]
+  from = '/working-from-home'
+  to = 'https://twitter.com/wslyvh'
+  force = true
+  status = 301
+
+[[redirects]]
+  from = '/'
+  to = 'https://twitter.com/wslyvh'
+  force = true
+  status = 301
+
+[[redirects]]
+  from = '/*'
+  to = 'https://twitter.com/wslyvh'
+  force = true
+  status = 301
+
+[[redirects]]
+  from = '*'
+  to = 'https://twitter.com/wslyvh'
+  force = true
+  status = 301
